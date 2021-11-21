@@ -1,9 +1,9 @@
 👋 Hello Everyone
-  
+ -
   I’m Nichapat Nobnorb (Best), I'm a student in Bachelor of Science Program in Health Data Science at King Mongkut's University of Technology Thonburi and Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy.
 
 👀 I’m interested about 
-
+-
 - Data Science
 - Data Visualization
 - Basic Machines Learning
